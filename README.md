@@ -34,8 +34,36 @@ Create a presentation of 5 to 10 minutes
 - Grid system
 - Theming with SCSS and Webpack or other tools
 - Integration with front frameworks (vue.js, react.js, angular.js, etc)
+- Compare the **performance** to your website to that of the other groups
+
+### 3. Deploy the website
+
+Deploy the website to Heroku, Netifly (JAMStack) or other
+Compare the  
+
+### Qualification criteria (Rubrics)
+
+* All the topics have been covered (1 to 5)
+* The presentation format is correct (1 to 5)
+* The website format is correct (1 to 5)
 
 
+## ENTREGA
+
+### Checkpoint 1: Entregar la website i desplegar-la
+> Deadline: 20/01/2020
+
+### Checkpoint 2: Entregar un esborrany de la presentació
+> Deadline: 24/01/2020
+
+Per a que se puguin comparar entre ells
+
+
+### Checkpoint 3: Entrega definitiva de la presentació
+> Deadline: 28/01/2020
+
+### Presentations
+> Date: 29/01/2020
 
 ** IDEA:  QUE SE PUNTUIN ELLS**
 
