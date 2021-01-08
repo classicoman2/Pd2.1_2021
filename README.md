@@ -3,73 +3,59 @@ Comparison of Frameworks
 
 ## INTRODUCTION
 
-Your boss says you have to redesign an old website and wants to adopt a modern approach to building the site. 
-In **groups of 2/3**, you'll have the mission of "propose" a technology and defend it against the others. The technologies are:
+Your boss says you have to redesign an old website and wants to adopt a modern approach to building the site. Your mission is to propose and stand for a technology to implement web interfaces and to defend it against the others. 
 
-### The technologies
+### The technologies / Groups
 
-1. Flexbox & Grid
-2. Bootstrap
-3. Material Design
-4. Bulma
-5. Tailwind CSS
+1. Javi B. - dani Z. / BULMA 
+2. Mateu - Samu / CSS GRID & FLEXBOX
+3. Dani F. - Sebas - Carlos / BOOTSTRAP
+3. Jose - Chema / MATERIAL DESIGN
+5. Dani A. - Alberto / TAILWIND CSS
+
+## WHAT TO DO?
 
 You'll have to create to "things":
 
-## WHAT TO DO
-
 ### 1. A simple web page 
 
-Create the front page of [this webpage](https://www.w3schools.com/howto/tryhow_website_band.htm#band) using the Technologies
+- Create the front page of [this webpage](https://www.w3schools.com/howto/tryhow_website_band.htm#band) using the chosen technologies.
+- It will also have an `About` section where you'll insert the video.
 
 ### 2. Google Docs Presentation
 
-Create a presentation of 5 to 10 minutes 
+Create a video presentation of 5 to 10 minutes. Every one of you we'll record a part of the video separately using a video recording software and using and edition tool, you'll create an unique video and insert it the `about` section of your webpage
 
-- Installation with npm / CDNs
+- Installation
+- Main features: Responsiveness, Grid System, theming, integration with other tools/frameworks ......
 - Performance
-- "Ease of use"
 - Available documentation
-- Responsiveness
 - Grid system
 - Theming with SCSS and Webpack or other tools
 - Integration with front frameworks (vue.js, react.js, angular.js, etc)
-- Compare the **performance** to your website to that of the other groups
 
-### 3. Deploy the website
+- Whenever possible, compare the features of your technology with those of the other. Ask the other groups about their technology!
 
-Deploy the website to Heroku, Netifly (JAMStack) or other
-Compare the  
+### 3. (Optional) Deploy the website
 
-### Qualification criteria (Rubrics)
+Deploy the website to **Heroku**, **Netlify** or similar tools.
 
-* All the topics have been covered (1 to 5)
-* The presentation format is correct (1 to 5)
-* The website format is correct (1 to 5)
+## HAND OVER SPRINTS
 
+### SPRINT 1: Hand over the website repository
+> :alarm_clock: Deadline: 20/01/2020
 
-## ENTREGA
+* Store the website into a github public repository and [insert the URL in this document]()
+* It will contain the website without the video presentation. 
 
-### Checkpoint 1: Entregar la website i desplegar-la
-> Deadline: 20/01/2020
+### SPRINT 2: Entregar un esborrany de la presentació
+> :alarm_clock: Deadline: 24/01/2020
 
-### Checkpoint 2: Entregar un esborrany de la presentació
-> Deadline: 24/01/2020
+Insert a link to your presentation in the README.MD of your project. 
+The presentation access should be public.
 
-Per a que se puguin comparar entre ells
+### SPRINT 3: Entrega definitiva de la presentació
+> :alarm_clock: Deadline: 28/01/2020
 
-
-### Checkpoint 3: Entrega definitiva de la presentació
-> Deadline: 28/01/2020
-
-### Presentations
-> Date: 29/01/2020
-
-** IDEA:  QUE SE PUNTUIN ELLS**
-
-** Els membres del grup hauran de demanar als altres INFO sobre com s'instal·la bulma, ... i mirar la seva demo**
-
-** COM MÉS NOTA TENEN DE LA 1A AVALUACIO ---> FRAMEWORK MÉS COMPLICAT**
-
-
-
+### Video Presentations premiere 
+> :scream: Date: 29/01/2020
