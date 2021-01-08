@@ -50,7 +50,7 @@ Deploy the website to **Heroku**, **Netlify** or similar tools.
 ### SPRINT 1: Hand over the website repository
 > :alarm_clock: Deadline: 20/01/2020
 
-* Store the website into a github public repository and [insert the URL in this document]()
+* Store the website into a github public repository and [insert the URL in this document](https://docs.google.com/spreadsheets/d/1ymNPMas7skRIr2i3mFZtaIYn-Gb7QR_z5bPOZPeZFDI/edit#gid=0)
 * It will contain the website without the video presentation. 
 
 
