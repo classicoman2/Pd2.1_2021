@@ -15,7 +15,7 @@ Your boss says you have to redesign an old website and wants to adopt a modern a
 
 ## WHAT TO DO?
 
-You'll have to create to "things":
+You'll have to create a website example using the technology and a Google Docs Presentation and optionally, deploy the website.
 
 ### 1. A simple web page 
 
@@ -24,23 +24,28 @@ You'll have to create to "things":
 
 ### 2. Google Docs Presentation
 
-Create a video presentation of 5 to 10 minutes. Every one of you we'll record a part of the video separately using a video recording software and using and edition tool, you'll create an unique video and insert it the `about` section of your webpage
+- Create a video presentation of 5 to 10 minutes
+- Every member of a team will record a part of the video separately using a video recording software
+- Using a video edition software, append the videos into one file and embed it in the `about` section of the webpage
 
-- Installation
-- Main features: Responsiveness, Grid System, theming, integration with other tools/frameworks ......
-- Performance
-- Available documentation
-- Grid system
-- Theming with SCSS and Webpack or other tools
-- Integration with front frameworks (vue.js, react.js, angular.js, etc)
+- In the presentation, you're going to defend your technology against the others. 
+- You should talk about:
+    - Installation
+    - Available documentation / community
+    - Main features: Responsiveness, Grid System, theming, integration with other tools/frameworks ....
+    - Performance
+    - Integration with front frameworks (vue.js, react.js, angular.js, etc)
 
-- Whenever possible, compare the features of your technology with those of the other. Ask the other groups about their technology!
+- You shoud always keep in mind that you must compare your technology with the others. Ask the other groups info about their technology!
 
 ### 3. (Optional) Deploy the website
 
 Deploy the website to **Heroku**, **Netlify** or similar tools.
 
+
+
 ## HAND OVER SPRINTS
+
 
 ### SPRINT 1: Hand over the website repository
 > :alarm_clock: Deadline: 20/01/2020
@@ -48,14 +53,17 @@ Deploy the website to **Heroku**, **Netlify** or similar tools.
 * Store the website into a github public repository and [insert the URL in this document]()
 * It will contain the website without the video presentation. 
 
+
 ### SPRINT 2: Entregar un esborrany de la presentació
 > :alarm_clock: Deadline: 24/01/2020
 
 Insert a link to your presentation in the README.MD of your project. 
 The presentation access should be public.
 
+
 ### SPRINT 3: Entrega definitiva de la presentació
 > :alarm_clock: Deadline: 28/01/2020
+
 
 ### Video Presentations premiere 
 > :scream: Date: 29/01/2020
