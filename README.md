@@ -19,8 +19,8 @@ You'll have to create a website example using the technology and a Google Docs P
 
 ### 1. A simple web page 
 
-- Create the front page of [this webpage](https://www.w3schools.com/howto/tryhow_website_band.htm#band) using the chosen technologies.
-- It will also have an `About` section where you'll insert the video.
+- Create the front page of [this webpage](https://www.w3schools.com/howto/tryhow_website_band.htm#band) with the Framework assigned to the Team.
+- The site will have to follow the instructions [in this document](https://docs.google.com/document/d/1ZQ64qEARAcRYk9TDjlfnI6lt_QjAU4DblGibuAwuQVE/edit#)
 
 ### 2. Google Docs Presentation
 
