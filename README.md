@@ -48,22 +48,16 @@ Deploy the website to **Heroku**, **Netlify** or similar tools.
 
 
 ### SPRINT 1: Hand over the website repository
-> :alarm_clock: Deadline: 20/01/2020
+> :alarm_clock: Deadline: Friday 22/01/2020
 
 * Store the website into a github public repository and [insert the URL in this document](https://docs.google.com/spreadsheets/d/1ymNPMas7skRIr2i3mFZtaIYn-Gb7QR_z5bPOZPeZFDI/edit#gid=0)
 * It will contain the website without the video presentation. 
 
+### SPRINT 2: Entrega de l'esborrany de la presentació
+> :alarm_clock: Deadline: Friday 29/01/2020
 
-### SPRINT 2: Entregar un esborrany de la presentació
-> :alarm_clock: Deadline: 24/01/2020
-
-Insert a link to your presentation in the README.MD of your project. 
-The presentation access should be public.
-
-
-### SPRINT 3: Entrega definitiva de la presentació
-> :alarm_clock: Deadline: 28/01/2020
-
+### SPRINT 3: Entrega del video editat i penjat a página `About` de la web
+> :alarm_clock: Deadline: Wednesday 03/02/2020
 
 ### Video Presentations premiere 
-> :scream: Date: 29/01/2020
+> :scream: Date: Thursday 04/02/2020
