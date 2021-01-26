@@ -1,9 +1,26 @@
 # Pd2.1_2021
 Comparison of Frameworks
 
-## INTRODUCTION
+## Table of Contents
 
-Your boss says you have to redesign an old website and wants to adopt a modern approach to building the site. Your mission is to propose and stand for a technology to implement web interfaces and to defend it against the others. 
+<!-- toc -->
+
+- [INTRODUCTION](#introduction)
+  * [The technologies / Groups](#the-technologies--groups)
+- [WHAT TO DO?](#what-to-do)
+  * [1. A simple web page](#1-a-simple-web-page)
+  * [2. Google Docs Presentation](#2-google-docs-presentation)
+  * [3. (Optional) Deploy the website](#3-optional-deploy-the-website)
+- [HAND OVER SPRINTS](#hand-over-sprints)
+  * [SPRINT 1: Hand over the website repository](#sprint-1-hand-over-the-website-repository)
+  * [SPRINT 2: Entregar un esborrany de la presentació](#sprint-2-entregar-un-esborrany-de-la-presentacio)
+  * [SPRINT 3: Entrega definitiva de la presentació](#sprint-3-entrega-definitiva-de-la-presentacio)
+  * [Video Presentations premiere](#video-presentations-premiere)
+
+<!-- tocstop -->
+
+## INTRODUCTION
+Your project manager says you have to redesign an old website and wants to adopt a modern approach to building the site. Your mission is to propose and stand for a technology to implement web interfaces and to defend it against the others. 
 
 ### The technologies / Groups
 
@@ -40,30 +57,26 @@ You'll have to create a website example using the technology and a Google Docs P
 
 ### 3. (Optional) Deploy the website
 
-Deploy the website to **Heroku**, **Netlify** or similar tools.
+Deploy the website with **Netlify** or similar tools.
 
 
 
 ## HAND OVER SPRINTS
 
 
-### SPRINT 1: Hand over the website repository
-> :alarm_clock: Deadline: 20/01/2020
+### SPRINT 1+2: Website repository (+ deployment) + esborrany de la presentació
+> :alarm_clock: Deadline: Friday 29/01/2021
 
 * Store the website into a github public repository and [insert the URL in this document](https://docs.google.com/spreadsheets/d/1ymNPMas7skRIr2i3mFZtaIYn-Gb7QR_z5bPOZPeZFDI/edit#gid=0)
-* It will contain the website without the video presentation. 
+* It will contain the website without the video presentation
+* (Optional) Deploy the application with Netlify or similar tool
+* Add a link to your presentation in the top part of the `README.MD` file
+* The presentation access should be public.
+* You final presentation should be available for the other groups to see & compare to their framework
 
-
-### SPRINT 2: Entregar un esborrany de la presentació
-> :alarm_clock: Deadline: 24/01/2020
-
-Insert a link to your presentation in the README.MD of your project. 
-The presentation access should be public.
-
-
-### SPRINT 3: Entrega definitiva de la presentació
-> :alarm_clock: Deadline: 28/01/2020
-
+### SPRINT 2: Presentation finished
+> :alarm_clock: Deadline: Wednesday 03/02/2021
+* From this point, you can not change your presentations (only small changes/buts)
 
 ### Video Presentations premiere 
-> :scream: Date: 29/01/2020
+> :scream: Date: Thursday 04/02/2020

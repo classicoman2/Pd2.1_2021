@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "markdown-toc": "^1.2.0"
+  },
+  "scripts": {
+    "toc": "markdown-toc -i README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classicoman2/Pd2.1_2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classicoman2/Pd2.1_2021/issues"
+  },
+  "homepage": "https://github.com/classicoman2/Pd2.1_2021#readme"
+}
