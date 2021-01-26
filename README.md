@@ -12,9 +12,8 @@ Comparison of Frameworks
   * [2. Google Docs Presentation](#2-google-docs-presentation)
   * [3. (Optional) Deploy the website](#3-optional-deploy-the-website)
 - [HAND OVER SPRINTS](#hand-over-sprints)
-  * [SPRINT 1: Hand over the website repository](#sprint-1-hand-over-the-website-repository)
-  * [SPRINT 2: Entregar un esborrany de la presentació](#sprint-2-entregar-un-esborrany-de-la-presentacio)
-  * [SPRINT 3: Entrega definitiva de la presentació](#sprint-3-entrega-definitiva-de-la-presentacio)
+  * [SPRINT 1+2: Website repository (+ deployment) + esborrany de la presentació](#sprint-12-website-repository--deployment--esborrany-de-la-presentacio)
+  * [SPRINT 2: Presentation finished](#sprint-2-presentation-finished)
   * [Video Presentations premiere](#video-presentations-premiere)
 
 <!-- tocstop -->
