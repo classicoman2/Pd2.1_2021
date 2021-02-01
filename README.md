@@ -75,7 +75,7 @@ Deploy the website with **Netlify** or similar tools.
 
 ### SPRINT 2: Presentation finished
 > :alarm_clock: Deadline: Wednesday 03/02/2021
-* From this point, you can not change your presentations (only small changes/buts)
+* From this point, you can not change your presentations (only small changes/solve bugs)
 
 ### Video Presentations premiere 
 > :scream: Date: Thursday 04/02/2020
